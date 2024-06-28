@@ -12,8 +12,8 @@ Experience
 Technical Skills
 
 - Programming Languages: Python, R, SQL
-- Data Science Tools: Pandas, NumPy, SciPy, scikit-learn, TensorFlow, Keras
-- Data Visualization: Matplotlib, Seaborn, ggplot2, Plotly
+- Data Science Tools: Pandas, NumPy, SciPy, scikit-learn, TensorFlow
+- Data Visualization: Matplotlib, Seaborn, ggplot2
 - Bioinformatics: BLAST, Biopython, Bioconductor
 - Modeling and Simulation: Pymol
 
