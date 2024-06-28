@@ -2,7 +2,7 @@
 
 About Me
 
-Hello! I am a biologist with a master's degree in Biophysics and Quantitative Biotechnology, and another in Data Science. My passion lies at the intersection of biology and data science, using quantitative and computational tools to solve complex biological problems.
+I am a biologist with a master's degree in Biophysics and Quantitative Biotechnology, and another in Data Science. My passion lies at the intersection of biology and data science, using quantitative and computational tools to solve complex biological problems.
 Experience
 
 - Biophysics and Quantitative Biotechnology: I have a solid background in quantitative analysis of biological systems, modeling, and biophysical simulations.
