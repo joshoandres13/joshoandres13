@@ -1,27 +1,73 @@
-# 👋 Hi everyone, my name is Andrés
+# Hi, I'm J. Andrés Castillo Rivas
 
-About Me
+I am a biologist currently pursuing a **PhD**, with a background in **Biophysics, Quantitative Biotechnology, Bioinformatics, and Data Science**. My work focuses on applying computational and quantitative approaches to understand complex biological systems, especially through data analysis, genomics, regulatory biology, and biological modeling.
 
-I am a biologist with a master's degree in Biophysics and Quantitative Biotechnology, and another in Data Science. My passion lies at the intersection of biology and data science, using quantitative and computational tools to solve complex biological problems.
-Experience
+## About Me
 
-- Biophysics and Quantitative Biotechnology: I have a solid background in quantitative analysis of biological systems, modeling, and biophysical simulations.
-- Data Science: I have developed skills in data analysis, machine learning, and data visualization applied to biology and biotechnology.
-- Research Projects: I have participated in various research projects, collaborating with multidisciplinary teams to develop innovative and data-driven solutions.
+- Biologist with master's-level training in **Biophysics and Quantitative Biotechnology**
+- Trained in **Data Science**, with experience in data analysis, visualization, and machine learning
+- Interested in the intersection of **biology, computation, and biotechnology**
+- Experienced in research environments and multidisciplinary scientific projects
+- Passionate about building reproducible workflows for biological data analysis
 
-Technical Skills
+## Technical Skills
 
-- Programming Languages: Python, R, SQL
-- Data Science Tools: Pandas, NumPy, SciPy, scikit-learn, TensorFlow
-- Data Visualization: Matplotlib, Seaborn, ggplot2
-- Bioinformatics: BLAST, Biopython, Bioconductor
-- Modeling and Simulation: Pymol
+**Programming and Data Analysis**
 
-Highlighted Projects
+- Python
+- R
+- SQL
+- Pandas
+- Nextflow
+- NumPy
+- SciPy
+- scikit-learn
 
-- Protein Modeling: Development of computational models to study protein dynamics and structure.
-- Genomic Sequence Analysis: Implementation of pipelines for annotation and analysis of genomic data.
+**Bioinformatics**
 
-Goals
+- Genomic sequence analysis
+- Regulatory region analysis
+- Biopython
+- Bioconductor
+- Motif and transcription factor binding site analysis
 
-I am interested in continuing to apply my knowledge and skills to challenging projects that integrate biology with data science, contributing to significant advancements in biotechnology and bioinformatics.
+**Data Visualization**
+
+- Matplotlib
+- Seaborn
+- ggplot2
+
+**Modeling and Structural Biology**
+
+- PyMOL
+- Protein structure analysis
+- Biophysical modeling
+
+## Research Interests
+
+- Bioinformatics and computational biology
+- Gene regulation and regulatory regions
+- Genomics and transcriptomics
+- Transcription factor binding site analysis
+- Data-driven biotechnology
+- Biological data visualization
+- Machine learning applied to biology
+
+## Highlighted Projects
+
+### Regulatory Genomics and TFBS Analysis
+
+Development of computational workflows to analyze regulatory regions, transcription factor binding sites, gene expression, and epigenomic signals.
+
+### Genomic Sequence Analysis
+
+Implementation of pipelines for processing, annotating, and analyzing genomic datasets.
+
+## Current Goals
+
+I aim to continue developing computational and data-driven solutions for biological research, with a focus on bioinformatics, biotechnology, and reproducible scientific workflows.
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/jose-castillo-rivas13/)
+- GitHub: [joshoandres13](https://github.com/joshoandres13)
